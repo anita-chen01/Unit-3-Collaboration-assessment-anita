@@ -18,4 +18,24 @@ Our mission is to:
 >
 
 ---
-##
+## Featured Trees 
+**Oak Tree**
+
+**Scientific Name**: *Quercus robur*
+
+Known for its strength and longevity, the oak is a symbol of endurance
+
+![alt text](<download (1).jpeg>)
+---
+**Pine Tree**
+
+**Scientific Name**: *Pinus*
+
+Evergreen and aromatic, pine trees thrive in colder regions.
+
+![alt text](<download (2)-1.jpeg>)
+---
+## Tree Identification Tool
+You can use this simple **Javascript** function to identify a tree by its characteristics:
+
+funct
